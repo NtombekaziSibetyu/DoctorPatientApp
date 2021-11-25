@@ -11,6 +11,8 @@ namespace DoctorPatientApp.Controllers
 {
     public class HomeController : Controller
     {
+	// comment from Bevan
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
